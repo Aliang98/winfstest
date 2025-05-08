@@ -11,7 +11,7 @@ Prerequisites:
 To run:
 * Build the winfstest.exe with VS
 * cd TestSuite
-* run-winfstest.bat - if python not found, u probably need to edit HKCU to HKLM (machine vs per user Python install)
-* U shoud see test done 171/171 
+* run-winfstest.ps1 - if python not found, u probably need to edit HKCU to HKLM (machine vs per user Python install)
+* U shoud see test done 492/492 
 
-To test another location give a path as first argument: run-winfstest.bat . X:\tmp
+To test another location give a path as first argument: run-winfstest.ps1 . X:\tmp
